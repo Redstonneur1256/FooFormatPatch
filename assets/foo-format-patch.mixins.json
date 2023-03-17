@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "compatibilityLevel": "JAVA_8",
+    "package": "fr.redstonneur1256.ffp.mixins",
+    "mixins": [
+        "CallMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "foo-format-patch",
+  "minGameVersion": "142",
+  "displayName": "Foo's format patch",
+  "description": "Foo's client ignores netServer.chatFormatter, this brings it back",
+  "author": "Redstonneur1256",
+  "version": "@version@",
+  "build": "@build@",
+  "built": "@built@",
+  "dependencies": [
+    "!mod-library"
+  ],
+  "main": "fr.redstonneur1256.ffp.FooFormatPatch",
+  "repo": "Redstonneur1256/FooFormatPatch",
+  "hidden": true
+}
